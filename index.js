@@ -375,4 +375,4 @@ client.on('message',  msg => {
 });
 
 
-client.login("NzE3MTQ5NDA2NDc3OTQyNzk1.XtWHbg.aXIgldpS10rjCPhQEXeXw5BakI4");
+client.login("TOKEN");
