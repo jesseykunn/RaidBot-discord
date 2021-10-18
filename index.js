@@ -14,13 +14,13 @@ const botPrefix = "*"
   console.log((chalk.cyan(`                                           #     # #    # #      #    # #    # #   #  #    #  #    # # #    # `)));
   console.log((chalk.cyan(`                                            #####  #    # ###### #    #  ####  #    # #     # #    # # #####  `)));
   console.log("");                                  
-  console.log((chalk.yellow(`                                                               Crée par GalackQSM#7926 !`)));  
-  console.log((chalk.yellow(`                                                                © 2020 GalackQSM, Inc.`))); 
+  console.log((chalk.yellow(`                                                               Crée par Pipou#0001 !`)));  
+  console.log((chalk.yellow(`                                                                © 2020 Jessey, Inc.`))); 
   console.log("");                                   
-  console.log((chalk.red(`                                                         Discord: https://discord.gg/XH7zQ8s`)));   
-  console.log((chalk.red(`                                                       Twitter: https://twitter.com/Galack_QSM`)));   
-  console.log((chalk.red(`                                                        Github: https://github.com/GalackQSM`)));  
-  console.log((chalk.red(`                                                        Youtube: https://youtube.com/GalackQSM`)));   
+  console.log((chalk.red(`                                                         Discord: https://discord.gg/`)));   
+  console.log((chalk.red(`                                                       Twitter: https://twitter.com/`)));   
+  console.log((chalk.red(`                                                        Github: https://github.com/`)));  
+  console.log((chalk.red(`                                                        Youtube: https://youtube.com/`)));   
   console.log("");                                  
 
   console.log(`Statistiques globales : \n\nLe bot a un total de ${client.guilds.cache.size} serveurs. \nPour un total de ${client.users.cache.size} membres.`)
